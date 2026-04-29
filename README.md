@@ -13,7 +13,7 @@ The goal of this work is to improve the **trustworthiness, interpretability, and
 
 
 ## Prototype Head:
-<img width="899" height="544" alt="image" src="https://github.com/user-attachments/assets/1ddb9631-6727-464d-a299-f15c93b64a95" />
+<img width="699" height="544" alt="image" src="https://github.com/user-attachments/assets/1ddb9631-6727-464d-a299-f15c93b64a95" />
 
 
 ## Overview
