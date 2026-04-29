@@ -1,6 +1,6 @@
-# TRU-MED: Ttrustworthy-Uncertainty-Guided Medical transformer
+# MedFormer-UR: Ttrustworthy-Uncertainty-Guided Medical transformer
 
-**TRU-MED** is an uncertainty-aware and prototype-augmented extension of **MedFormer**, a hierarchical medical vision Transformer with Content-Aware Dual Sparse Selection Attention (DSSA).  
+**MedFormer-UR** is an uncertainty-aware and prototype-augmented extension of **MedFormer**, a hierarchical medical vision Transformer with Content-Aware Dual Sparse Selection Attention (DSSA).  
 This repository builds on the original MedFormer backbone and introduces:
 
 - **Per-token evidential uncertainty estimation**
@@ -8,7 +8,7 @@ This repository builds on the original MedFormer backbone and introduces:
 - **Prototype-based representation learning for interpretable classification**
 
 The goal of this work is to improve the **trustworthiness, interpretability, and robustness** of medical image classification without modifying the core DSSA mechanism of the original MedFormer backbone.
-## TRU-MED Architecture:
+## MedFormer-UR Architecture:
 <p align="center">
 <img src="figs/medunfr.png" width="80%">
 </p>
@@ -23,7 +23,7 @@ The goal of this work is to improve the **trustworthiness, interpretability, and
 
 Medical image classification often involves ambiguous tissue appearance, subtle lesion boundaries, inter-patient variability, and domain shift across acquisition settings. While MedFormer provides a strong hierarchical Transformer backbone for high-resolution medical imagery, it remains fundamentally deterministic and does not explicitly model uncertainty or provide prototype-based interpretability.
 
-To address these limitations, this repository extends MedFormer with a new framework called **TRU-MED** (**T**trustworthy-**U**ncertainty-**G**uided **M**edical transformer). The method combines evidential uncertainty modeling, reliability-aware routing, local refinement, and prototype-driven decision making into a unified medical Transformer architecture.
+To address these limitations, this repository extends MedFormer with a new framework called **MedFormer-UR** (**T**trustworthy-**U**ncertainty-**G**uided **M**edical transformer). The method combines evidential uncertainty modeling, reliability-aware routing, local refinement, and prototype-driven decision making into a unified medical Transformer architecture.
 
 ---
 
