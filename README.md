@@ -1,4 +1,4 @@
-# MedFormer-UR: Ttrustworthy-Uncertainty-Guided Medical transformer
+# MedFormer-UR: Trustworthy-Uncertainty-Guided Medical transformer
 
 **MedFormer-UR** is an uncertainty-aware and prototype-augmented extension of **MedFormer**, a hierarchical medical vision Transformer with Content-Aware Dual Sparse Selection Attention (DSSA).  
 This repository builds on the original MedFormer backbone and introduces:
