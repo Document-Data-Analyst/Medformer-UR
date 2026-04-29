@@ -9,15 +9,12 @@ This repository builds on the original MedFormer backbone and introduces:
 
 The goal of this work is to improve the **trustworthiness, interpretability, and robustness** of medical image classification without modifying the core DSSA mechanism of the original MedFormer backbone.
 ## MedFormer-UR Architecture:
-<p align="center">
-<img src="figs/medunfr.png" width="80%">
-</p>
+<img width="1302" height="860" alt="image" src="https://github.com/user-attachments/assets/e59c896c-6f87-4ecd-8c98-f6fbb48894ca" />
+
 
 ## Prototype Head:
-<p align="center">
-<img src="figs/proto.png" width="80%">
-</p>
----
+<img width="1194" height="844" alt="image" src="https://github.com/user-attachments/assets/1ddb9631-6727-464d-a299-f15c93b64a95" />
+
 
 ## Overview
 
